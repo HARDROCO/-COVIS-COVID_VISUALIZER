@@ -9,7 +9,7 @@ import folium
 #import datetime
 
 # -------------------------------------------------------------------
-# Default config insert code here
+# Default config | insert code here
 # -------------------------------------------------------------------
 # put the default path here
 path_ = "E:/PROGRAMACION/PYTHON/PROYECTOS_PYTHON/ANALISIS_DATOS/"
