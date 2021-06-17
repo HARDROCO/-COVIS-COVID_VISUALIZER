@@ -37,13 +37,13 @@ print("""        ********************************************************
 try:
     path = input("Selecciona la ruta o ENTER para ruta default: ")
     # CARGAR ARCHIVO active para habilitar diferente formato
-    # df = pd.read_csv(f'{path}COVIS/input/Covid_confirmed.csv', delimiter=',') # csv
+    # df = pd.read_csv(f'{path}COVIS/input/Covid_confirmed.csv', delimiter=';') # csv
     df = pd.read_excel(f'{path}COVIS/input/Covid_template.xlsx')  # xlsx
     print("Ruta cargada leyendo datoos...\n")
 except:
     path = path_
     # CARGAR ARCHIVO
-    # df = pd.read_csv(f'{path}COVIS/input/Covid_confirmed.csv', delimiter=',') # csv
+    # df = pd.read_csv(f'{path}COVIS/input/Covid_confirmed.csv', delimiter=';') # csv
     df = pd.read_excel(f'{path}COVIS/input/Covid_template.xlsx')  # xlsx
     print("Ruta default cargada leyendo datoos...\n")
 
