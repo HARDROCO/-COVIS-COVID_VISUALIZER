@@ -123,7 +123,7 @@ Once you have the dataset file ready you can start with the processing scripts.
 
 + Interactive map, Total cases by country
 
-    ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
+    ![Total cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/images/map_total_cas.PNG)
 
 + When the process finishes
   
@@ -159,14 +159,14 @@ Check the output folder to find some examples.
 
 + Also, you could use the .xlxs files but you will need to put them into your google account and in a google sheets 
 
-  ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
+  ![copy Dashboard](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/images/covis_m_copy.PNG)
 
 
   + Link : [Dashboard GDS, Covid daily cases](https://datastudio.google.com/s/mjWSAdwfgZ4)
 
 + Dashboard Example
 
-  ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
+  ![Dashboard Example](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/images/dashboard_gds.PNG)
 
 
 That's all !
