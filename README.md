@@ -117,7 +117,11 @@ Once you have the dataset file ready you can start with the processing scripts.
 
 + Within the Script, data entry will be requested, it will ask you if you want to load the data from a different route and you can put a diferent path by console as before if not, you can simply give ENTER and it will load the default route, besides it will be requested to select the graphs date, as well as the country for the visualizations, if you do not want to put the information you can press ENTER and the Script will load the data by default. Follow the script instructions to avoid errors in the code
 
-+ Daily cases by country example
++ Image, Daily cases by country example
+
+    ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
+
++ Interactive map, Total cases by country
 
     ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
 
@@ -155,8 +159,14 @@ Check the output folder to find some examples.
 
 + Also, you could use the .xlxs files but you will need to put them into your google account and in a google sheets 
 
+  ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
 
-  + Link : [Dashboard GDS, Covid daily cases](https://datastudio.google.com/embed/reporting/fb1037f3-c160-40bc-b06c-d1044fb40168/page/AbfGC)
+
+  + Link : [Dashboard GDS, Covid daily cases](https://datastudio.google.com/s/mjWSAdwfgZ4)
+
++ Dashboard Example
+
+  ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
 
 
 That's all !
