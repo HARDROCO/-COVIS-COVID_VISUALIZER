@@ -119,7 +119,7 @@ Once you have the dataset file ready you can start with the processing scripts.
 
 + Daily cases by country example
 
-    ![Daily cases by country](E:\PROGRAMACION\PYTHON\PROYECTOS_PYTHON\ANALISIS_DATOS\COVIS\images\covis_m_copy.PNG)
+    ![Daily cases by country](https://github.com/HARDROCO/-COVIS-COVID_VISUALIZER/blob/main/output/Colombia_dailycases_CV19_2020-01-22_2020-10-17.png)
 
 + When the process finishes
   
@@ -158,7 +158,6 @@ Check the output folder to find some examples.
 
   + Link : [Dashboard GDS, Covid daily cases](https://datastudio.google.com/embed/reporting/fb1037f3-c160-40bc-b06c-d1044fb40168/page/AbfGC)
 
-<iframe width="600" height="405" src="https://datastudio.google.com/embed/reporting/fb1037f3-c160-40bc-b06c-d1044fb40168/page/5MfGC" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 That's all !
 
