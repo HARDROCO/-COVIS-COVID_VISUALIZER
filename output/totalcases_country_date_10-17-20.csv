@@ -1,0 +1,268 @@
+index,Province/State,Country/Region,Lat,Long,Region,lat_long,Casos totales 
+0,,Afghanistan,33.93911,67.709953, Afghanistan,"33.93911,67.709953",40141
+1,,Albania,41.1533,20.1683, Albania,"41.1533,20.1683",16774
+2,,Algeria,28.0339,1.6596, Algeria,"28.0339,1.6596",54203
+3,,Andorra,42.5063,1.5218, Andorra,"42.5063,1.5218",3377
+4,,Angola,-11.2027,17.8739, Angola,"-11.2027,17.8739",7462
+5,,Antigua and Barbuda,17.0608,-61.7964, Antigua and Barbuda,"17.0608,-61.7964",119
+6,,Argentina,-38.4161,-63.6167, Argentina,"-38.4161,-63.6167",979119
+7,,Armenia,40.0691,45.0382, Armenia,"40.0691,45.0382",63000
+8,Australian Capital Territory,Australia,-35.4735,149.0124,Australian Capital Territory Australia,"-35.4735,149.0124",113
+9,New South Wales,Australia,-33.8688,151.2093,New South Wales Australia,"-33.8688,151.2093",4338
+10,Northern Territory,Australia,-12.4634,130.8456,Northern Territory Australia,"-12.4634,130.8456",33
+11,Queensland,Australia,-27.4698,153.0251,Queensland Australia,"-27.4698,153.0251",1164
+12,South Australia,Australia,-34.9285,138.6007,South Australia Australia,"-34.9285,138.6007",482
+13,Tasmania,Australia,-42.8821,147.3272,Tasmania Australia,"-42.8821,147.3272",230
+14,Victoria,Australia,-37.8136,144.9631,Victoria Australia,"-37.8136,144.9631",20319
+15,Western Australia,Australia,-31.9505,115.8605,Western Australia Australia,"-31.9505,115.8605",711
+16,,Austria,47.5162,14.5501, Austria,"47.5162,14.5501",63134
+17,,Azerbaijan,40.1431,47.5769, Azerbaijan,"40.1431,47.5769",44317
+18,,Bahamas,25.025885,-78.035889, Bahamas,"25.025885,-78.035889",5628
+19,,Bahrain,26.0275,50.55, Bahrain,"26.0275,50.55",77571
+20,,Bangladesh,23.685,90.3563, Bangladesh,"23.685,90.3563",387295
+21,,Barbados,13.1939,-59.5432, Barbados,"13.1939,-59.5432",219
+22,,Belarus,53.7098,27.9534, Belarus,"53.7098,27.9534",87063
+23,,Belgium,50.8333,4.469936, Belgium,"50.8333,4.469936",213115
+24,,Belize,17.1899,-88.4976, Belize,"17.1899,-88.4976",2775
+25,,Benin,9.3077,2.3158, Benin,"9.3077,2.3158",2496
+26,,Bhutan,27.5142,90.4336, Bhutan,"27.5142,90.4336",325
+27,,Bolivia,-16.2902,-63.5887, Bolivia,"-16.2902,-63.5887",139710
+28,,Bosnia and Herzegovina,43.9159,17.6791, Bosnia and Herzegovina,"43.9159,17.6791",33561
+29,,Botswana,-22.3285,24.6849, Botswana,"-22.3285,24.6849",5242
+30,,Brazil,-14.235,-51.9253, Brazil,"-14.235,-51.9253",5224362
+31,,Brunei,4.5353,114.7277, Brunei,"4.5353,114.7277",147
+32,,Bulgaria,42.7339,25.4858, Bulgaria,"42.7339,25.4858",29108
+33,,Burkina Faso,12.2383,-1.5616, Burkina Faso,"12.2383,-1.5616",2343
+34,,Burma,21.9162,95.956, Burma,"21.9162,95.956",34875
+35,,Burundi,-3.3731,29.9189, Burundi,"-3.3731,29.9189",536
+36,,Cabo Verde,16.5388,-23.0418, Cabo Verde,"16.5388,-23.0418",7638
+37,,Cambodia,11.55,104.9167, Cambodia,"11.55,104.9167",283
+38,,Cameroon,3.848,11.5021, Cameroon,"3.848,11.5021",21441
+39,Alberta,Canada,53.9333,-116.5765,Alberta Canada,"53.9333,-116.5765",21775
+40,British Columbia,Canada,53.7267,-127.6476,British Columbia Canada,"53.7267,-127.6476",11189
+41,Diamond Princess,Canada,0.0,0.0,Diamond Princess Canada,"0.0,0.0",0
+42,Grand Princess,Canada,0.0,0.0,Grand Princess Canada,"0.0,0.0",13
+43,Manitoba,Canada,53.7609,-98.8139,Manitoba Canada,"53.7609,-98.8139",3173
+44,New Brunswick,Canada,46.5653,-66.4619,New Brunswick Canada,"46.5653,-66.4619",297
+45,Newfoundland and Labrador,Canada,53.1355,-57.6604,Newfoundland and Labrador Canada,"53.1355,-57.6604",287
+46,Northwest Territories,Canada,64.8255,-124.8457,Northwest Territories Canada,"64.8255,-124.8457",5
+47,Nova Scotia,Canada,44.682,-63.7443,Nova Scotia Canada,"44.682,-63.7443",1093
+48,Ontario,Canada,51.2538,-85.3232,Ontario Canada,"51.2538,-85.3232",65869
+49,Prince Edward Island,Canada,46.5107,-63.4168,Prince Edward Island Canada,"46.5107,-63.4168",63
+50,Quebec,Canada,52.9399,-73.5491,Quebec Canada,"52.9399,-73.5491",91018
+51,Saskatchewan,Canada,52.9399,-106.4509,Saskatchewan Canada,"52.9399,-106.4509",2270
+52,Yukon,Canada,64.2823,-135.0,Yukon Canada,"64.2823,-135.0",15
+53,,Central African Republic,6.6111,20.9394, Central African Republic,"6.6111,20.9394",4855
+54,,Chad,15.4542,18.7322, Chad,"15.4542,18.7322",1365
+55,,Chile,-35.6751,-71.543, Chile,"-35.6751,-71.543",490003
+56,Anhui,China,31.8257,117.2264,Anhui China,"31.8257,117.2264",991
+57,Beijing,China,40.1824,116.4142,Beijing China,"40.1824,116.4142",937
+58,Chongqing,China,30.0572,107.874,Chongqing China,"30.0572,107.874",586
+59,Fujian,China,26.0789,117.9874,Fujian China,"26.0789,117.9874",417
+60,Gansu,China,35.7518,104.2861,Gansu China,"35.7518,104.2861",170
+61,Guangdong,China,23.3417,113.4244,Guangdong China,"23.3417,113.4244",1881
+62,Guangxi,China,23.8298,108.7881,Guangxi China,"23.8298,108.7881",260
+63,Guizhou,China,26.8154,106.8748,Guizhou China,"26.8154,106.8748",147
+64,Hainan,China,19.1959,109.7453,Hainan China,"19.1959,109.7453",171
+65,Hebei,China,39.549,116.1306,Hebei China,"39.549,116.1306",368
+66,Heilongjiang,China,47.862,127.7615,Heilongjiang China,"47.862,127.7615",948
+67,Henan,China,37.8957,114.9042,Henan China,"37.8957,114.9042",1281
+68,Hong Kong,China,22.3,114.2,Hong Kong China,"22.3,114.2",5237
+69,Hubei,China,30.9756,112.2707,Hubei China,"30.9756,112.2707",68139
+70,Hunan,China,27.6104,111.7088,Hunan China,"27.6104,111.7088",1019
+71,Inner Mongolia,China,44.0935,113.9448,Inner Mongolia China,"44.0935,113.9448",275
+72,Jiangsu,China,32.9711,119.455,Jiangsu China,"32.9711,119.455",669
+73,Jiangxi,China,27.614,115.7221,Jiangxi China,"27.614,115.7221",935
+74,Jilin,China,43.6661,126.1923,Jilin China,"43.6661,126.1923",157
+75,Liaoning,China,41.2956,122.6085,Liaoning China,"41.2956,122.6085",280
+76,Macau,China,22.1667,113.55,Macau China,"22.1667,113.55",46
+77,Ningxia,China,37.2692,106.1655,Ningxia China,"37.2692,106.1655",75
+78,Qinghai,China,35.7452,95.9956,Qinghai China,"35.7452,95.9956",18
+79,Shaanxi,China,35.1917,108.8701,Shaanxi China,"35.1917,108.8701",436
+80,Shandong,China,36.3427,118.1498,Shandong China,"36.3427,118.1498",845
+81,Shanghai,China,31.202,121.4491,Shanghai China,"31.202,121.4491",1085
+82,Shanxi,China,37.5777,112.2922,Shanxi China,"37.5777,112.2922",208
+83,Sichuan,China,30.6171,102.7103,Sichuan China,"30.6171,102.7103",725
+84,Tianjin,China,39.3054,117.323,Tianjin China,"39.3054,117.323",252
+85,Tibet,China,31.6927,88.0924,Tibet China,"31.6927,88.0924",1
+86,Xinjiang,China,41.1129,85.2401,Xinjiang China,"41.1129,85.2401",902
+87,Yunnan,China,24.974,101.487,Yunnan China,"24.974,101.487",211
+88,Zhejiang,China,29.1832,120.0934,Zhejiang China,"29.1832,120.0934",1283
+89,,Colombia,4.5709,-74.2973, Colombia,"4.5709,-74.2973",952371
+90,,Comoros,-11.6455,43.3333, Comoros,"-11.6455,43.3333",502
+91,,Congo (Brazzaville),-0.228,15.8277, Congo (Brazzaville),"-0.228,15.8277",5156
+92,,Congo (Kinshasa),-4.0383,21.7587, Congo (Kinshasa),"-4.0383,21.7587",11000
+93,,Costa Rica,9.7489,-83.7534, Costa Rica,"9.7489,-83.7534",95514
+94,,Cote d'Ivoire,7.54,-5.5471, Cote d'Ivoire,"7.54,-5.5471",20301
+95,,Croatia,45.1,15.2, Croatia,"45.1,15.2",24761
+96,,Cuba,21.521757,-77.78116700000002, Cuba,"21.521757,-77.78116700000002",6170
+97,,Cyprus,35.1264,33.4299, Cyprus,"35.1264,33.4299",2581
+98,,Czechia,49.8175,15.473, Czechia,"49.8175,15.473",168827
+99,Faroe Islands,Denmark,61.8926,-6.9118,Faroe Islands Denmark,"61.8926,-6.9118",483
+100,Greenland,Denmark,71.7069,-42.6043,Greenland Denmark,"71.7069,-42.6043",16
+101,,Denmark,56.2639,9.5018, Denmark,"56.2639,9.5018",34941
+102,,Diamond Princess,0.0,0.0, Diamond Princess,"0.0,0.0",712
+103,,Djibouti,11.8251,42.5903, Djibouti,"11.8251,42.5903",5452
+104,,Dominica,15.415,-61.371, Dominica,"15.415,-61.371",33
+105,,Dominican Republic,18.7357,-70.1627, Dominican Republic,"18.7357,-70.1627",120925
+106,,Ecuador,-1.8312,-78.1834, Ecuador,"-1.8312,-78.1834",152422
+107,,Egypt,26.820553,30.802498, Egypt,"26.820553,30.802498",105297
+108,,El Salvador,13.7942,-88.8965, El Salvador,"13.7942,-88.8965",31456
+109,,Equatorial Guinea,1.6508,10.2679, Equatorial Guinea,"1.6508,10.2679",5070
+110,,Eritrea,15.1794,39.7823, Eritrea,"15.1794,39.7823",452
+111,,Estonia,58.5953,25.0136, Estonia,"58.5953,25.0136",4052
+112,,Eswatini,-26.5225,31.4659, Eswatini,"-26.5225,31.4659",5765
+113,,Ethiopia,9.145,40.4897, Ethiopia,"9.145,40.4897",88434
+114,,Fiji,-17.7134,178.065, Fiji,"-17.7134,178.065",32
+115,,Finland,61.92411,25.748151, Finland,"61.92411,25.748151",13293
+116,French Guiana,France,3.9339,-53.1258,French Guiana France,"3.9339,-53.1258",10243
+117,French Polynesia,France,-17.6797,149.4068,French Polynesia France,"-17.6797,149.4068",3797
+118,Guadeloupe,France,16.265,-61.551,Guadeloupe France,"16.265,-61.551",7122
+119,Martinique,France,14.6415,-61.0242,Martinique France,"14.6415,-61.0242",2257
+120,Mayotte,France,-12.8275,45.166244,Mayotte France,"-12.8275,45.166244",4030
+121,New Caledonia,France,-20.904305,165.618042,New Caledonia France,"-20.904305,165.618042",27
+122,Reunion,France,-21.1151,55.5364,Reunion France,"-21.1151,55.5364",4776
+123,Saint Barthelemy,France,17.9,-62.8333,Saint Barthelemy France,"17.9,-62.8333",72
+124,Saint Pierre and Miquelon,France,46.8852,-56.3159,Saint Pierre and Miquelon France,"46.8852,-56.3159",16
+125,St Martin,France,18.0708,-63.0501,St Martin France,"18.0708,-63.0501",531
+126,,France,46.2276,2.2137, France,"46.2276,2.2137",843471
+127,,Gabon,-0.8037,11.6094, Gabon,"-0.8037,11.6094",8881
+128,,Gambia,13.4432,-15.3101, Gambia,"13.4432,-15.3101",3649
+129,,Georgia,42.3154,43.3569, Georgia,"42.3154,43.3569",16285
+130,,Germany,51.165691,10.451526, Germany,"51.165691,10.451526",364664
+131,,Ghana,7.9465,-1.0232, Ghana,"7.9465,-1.0232",47232
+132,,Greece,39.0742,21.8243, Greece,"39.0742,21.8243",24932
+133,,Grenada,12.1165,-61.679, Grenada,"12.1165,-61.679",27
+134,,Guatemala,15.7835,-90.2308, Guatemala,"15.7835,-90.2308",101028
+135,,Guinea,9.9456,-9.6966, Guinea,"9.9456,-9.6966",11478
+136,,Guinea-Bissau,11.8037,-15.1804, Guinea-Bissau,"11.8037,-15.1804",2389
+137,,Guyana,4.860416000000002,-58.93018000000001, Guyana,"4.860416000000002,-58.93018000000001",3710
+138,,Haiti,18.9712,-72.2852, Haiti,"18.9712,-72.2852",8956
+139,,Holy See,41.9029,12.4534, Holy See,"41.9029,12.4534",27
+140,,Honduras,15.2,-86.2419, Honduras,"15.2,-86.2419",87594
+141,,Hungary,47.1625,19.5033, Hungary,"47.1625,19.5033",44816
+142,,Iceland,64.9631,-19.0208, Iceland,"64.9631,-19.0208",3998
+143,,India,20.593684,78.96288, India,"20.593684,78.96288",7494551
+144,,Indonesia,-0.7893,113.9213, Indonesia,"-0.7893,113.9213",357762
+145,,Iran,32.427908,53.68804599999999, Iran,"32.427908,53.68804599999999",526490
+146,,Iraq,33.223191,43.679291, Iraq,"33.223191,43.679291",423524
+147,,Ireland,53.1424,-7.6921, Ireland,"53.1424,-7.6921",48678
+148,,Israel,31.046051,34.851612, Israel,"31.046051,34.851612",302770
+149,,Italy,41.87194,12.56738, Italy,"41.87194,12.56738",402536
+150,,Jamaica,18.1096,-77.2975, Jamaica,"18.1096,-77.2975",8195
+151,,Japan,36.204824,138.252924, Japan,"36.204824,138.252924",92670
+152,,Jordan,31.24,36.51, Jordan,"31.24,36.51",36053
+153,,Kazakhstan,48.0196,66.9237, Kazakhstan,"48.0196,66.9237",109406
+154,,Kenya,-0.0236,37.9062, Kenya,"-0.0236,37.9062",44196
+155,,"Korea, South",35.90775700000001,127.766922," Korea, South","35.90775700000001,127.766922",25199
+156,,Kosovo,42.602636,20.902977, Kosovo,"42.602636,20.902977",16606
+157,,Kuwait,29.31166,47.481766, Kuwait,"29.31166,47.481766",115483
+158,,Kyrgyzstan,41.20438,74.766098, Kyrgyzstan,"41.20438,74.766098",51490
+159,,Laos,19.85627,102.495496, Laos,"19.85627,102.495496",23
+160,,Latvia,56.8796,24.6032, Latvia,"56.8796,24.6032",3392
+161,,Lebanon,33.8547,35.8623, Lebanon,"33.8547,35.8623",61284
+162,,Lesotho,-29.61,28.2336, Lesotho,"-29.61,28.2336",1833
+163,,Liberia,6.428055000000001,-9.429499, Liberia,"6.428055000000001,-9.429499",1377
+164,,Libya,26.3351,17.228331, Libya,"26.3351,17.228331",47845
+165,,Liechtenstein,47.14,9.55, Liechtenstein,"47.14,9.55",217
+166,,Lithuania,55.1694,23.8813, Lithuania,"55.1694,23.8813",7269
+167,,Luxembourg,49.8153,6.1296, Luxembourg,"49.8153,6.1296",10471
+168,,MS Zaandam,0.0,0.0, MS Zaandam,"0.0,0.0",9
+169,,Madagascar,-18.766947,46.869107, Madagascar,"-18.766947,46.869107",16810
+170,,Malawi,-13.2543,34.3015, Malawi,"-13.2543,34.3015",5852
+171,,Malaysia,4.210483999999999,101.975766, Malaysia,"4.210483999999999,101.975766",19627
+172,,Maldives,3.2028,73.2207, Maldives,"3.2028,73.2207",11178
+173,,Mali,17.570692,-3.996166000000001, Mali,"17.570692,-3.996166000000001",3379
+174,,Malta,35.9375,14.3754, Malta,"35.9375,14.3754",4486
+175,,Mauritania,21.0079,-10.9408, Mauritania,"21.0079,-10.9408",7607
+176,,Mauritius,-20.348404,57.552152, Mauritius,"-20.348404,57.552152",417
+177,,Mexico,23.6345,-102.5528, Mexico,"23.6345,-102.5528",847108
+178,,Moldova,47.4116,28.3699, Moldova,"47.4116,28.3699",66652
+179,,Monaco,43.7333,7.4167, Monaco,"43.7333,7.4167",260
+180,,Mongolia,46.8625,103.8467, Mongolia,"46.8625,103.8467",320
+181,,Montenegro,42.70867800000001,19.37439, Montenegro,"42.70867800000001,19.37439",15427
+182,,Morocco,31.7917,-7.0926, Morocco,"31.7917,-7.0926",170911
+183,,Mozambique,-18.665695,35.529562, Mozambique,"-18.665695,35.529562",10707
+184,,Namibia,-22.9576,18.4904, Namibia,"-22.9576,18.4904",12263
+185,,Nepal,28.1667,84.25, Nepal,"28.1667,84.25",129304
+186,Aruba,Netherlands,12.5211,-69.9683,Aruba Netherlands,"12.5211,-69.9683",4304
+187,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba Netherlands","12.1784,-68.2385",150
+188,Curacao,Netherlands,12.1696,-68.99,Curacao Netherlands,"12.1696,-68.99",715
+189,Sint Maarten,Netherlands,18.0425,-63.0548,Sint Maarten Netherlands,"18.0425,-63.0548",749
+190,,Netherlands,52.1326,5.2913, Netherlands,"52.1326,5.2913",220052
+191,,New Zealand,-40.9006,174.886, New Zealand,"-40.9006,174.886",1886
+192,,Nicaragua,12.865416,-85.207229, Nicaragua,"12.865416,-85.207229",5353
+193,,Niger,17.607789,8.081666, Niger,"17.607789,8.081666",1209
+194,,Nigeria,9.082,8.6753, Nigeria,"9.082,8.6753",61307
+195,,North Macedonia,41.6086,21.7453, North Macedonia,"41.6086,21.7453",23201
+196,,Norway,60.472,8.4689, Norway,"60.472,8.4689",16369
+197,,Oman,21.512583,55.92325500000001, Oman,"21.512583,55.92325500000001",108296
+198,,Pakistan,30.3753,69.3451, Pakistan,"30.3753,69.3451",323019
+199,,Panama,8.538,-80.7821, Panama,"8.538,-80.7821",124107
+200,,Papua New Guinea,-6.314993,143.95555, Papua New Guinea,"-6.314993,143.95555",581
+201,,Paraguay,-23.4425,-58.4438, Paraguay,"-23.4425,-58.4438",54015
+202,,Peru,-9.19,-75.0152, Peru,"-9.19,-75.0152",862417
+203,,Philippines,12.879721,121.774017, Philippines,"12.879721,121.774017",354338
+204,,Poland,51.9194,19.1451, Poland,"51.9194,19.1451",167230
+205,,Portugal,39.3999,-8.2245, Portugal,"39.3999,-8.2245",98055
+206,,Qatar,25.3548,51.1839, Qatar,"25.3548,51.1839",129227
+207,,Romania,45.9432,24.9668, Romania,"45.9432,24.9668",176468
+208,,Russia,61.52401,105.318756, Russia,"61.52401,105.318756",1376020
+209,,Rwanda,-1.9403,29.8739, Rwanda,"-1.9403,29.8739",4971
+210,,Saint Kitts and Nevis,17.357822,-62.782998, Saint Kitts and Nevis,"17.357822,-62.782998",19
+211,,Saint Lucia,13.9094,-60.9789, Saint Lucia,"13.9094,-60.9789",33
+212,,Saint Vincent and the Grenadines,12.9843,-61.2872, Saint Vincent and the Grenadines,"12.9843,-61.2872",67
+213,,San Marino,43.9424,12.4578, San Marino,"43.9424,12.4578",759
+214,,Sao Tome and Principe,0.1864,6.6131, Sao Tome and Principe,"0.1864,6.6131",932
+215,,Saudi Arabia,23.885942,45.079162, Saudi Arabia,"23.885942,45.079162",341854
+216,,Senegal,14.4974,-14.4524, Senegal,"14.4974,-14.4524",15392
+217,,Serbia,44.0165,21.0059, Serbia,"44.0165,21.0059",35946
+218,,Seychelles,-4.6796,55.492, Seychelles,"-4.6796,55.492",149
+219,,Sierra Leone,8.460555000000001,-11.779889, Sierra Leone,"8.460555000000001,-11.779889",2327
+220,,Singapore,1.2833,103.8333, Singapore,"1.2833,103.8333",57904
+221,,Slovakia,48.669,19.699, Slovakia,"48.669,19.699",28268
+222,,Slovenia,46.1512,14.9955, Slovenia,"46.1512,14.9955",12416
+223,,Solomon Islands,-9.6457,160.1562, Solomon Islands,"-9.6457,160.1562",3
+224,,Somalia,5.152149,46.199616, Somalia,"5.152149,46.199616",3864
+225,,South Africa,-30.5595,22.9375, South Africa,"-30.5595,22.9375",702131
+226,,South Sudan,6.877000000000002,31.307, South Sudan,"6.877000000000002,31.307",2817
+227,,Spain,40.463667,-3.74922, Spain,"40.463667,-3.74922",936560
+228,,Sri Lanka,7.873054,80.77179699999998, Sri Lanka,"7.873054,80.77179699999998",5475
+229,,Sudan,12.8628,30.2176, Sudan,"12.8628,30.2176",13691
+230,,Suriname,3.9193,-56.0278, Suriname,"3.9193,-56.0278",5123
+231,,Sweden,60.128161,18.643501, Sweden,"60.128161,18.643501",103200
+232,,Switzerland,46.8182,8.2275, Switzerland,"46.8182,8.2275",74422
+233,,Syria,34.802075,38.99681500000001, Syria,"34.802075,38.99681500000001",5033
+234,,Taiwan*,23.7,121.0, Taiwan*,"23.7,121.0",535
+235,,Tajikistan,38.861,71.2761, Tajikistan,"38.861,71.2761",10455
+236,,Tanzania,-6.369028,34.888822, Tanzania,"-6.369028,34.888822",509
+237,,Thailand,15.870032,100.992541, Thailand,"15.870032,100.992541",3686
+238,,Timor-Leste,-8.874217,125.727539, Timor-Leste,"-8.874217,125.727539",29
+239,,Togo,8.6195,0.8248, Togo,"8.6195,0.8248",2049
+240,,Trinidad and Tobago,10.6918,-61.2225, Trinidad and Tobago,"10.6918,-61.2225",5281
+241,,Tunisia,33.886917,9.537499, Tunisia,"33.886917,9.537499",40542
+242,,Turkey,38.9637,35.2433, Turkey,"38.9637,35.2433",345678
+243,,US,40.0,-100.0, US,"40.0,-100.0",8106384
+244,,Uganda,1.373333,32.290275, Uganda,"1.373333,32.290275",10455
+245,,Ukraine,48.3794,31.1656, Ukraine,"48.3794,31.1656",301856
+246,,United Arab Emirates,23.424076,53.847818, United Arab Emirates,"23.424076,53.847818",114387
+247,Anguilla,United Kingdom,18.2206,-63.0686,Anguilla United Kingdom,"18.2206,-63.0686",3
+248,Bermuda,United Kingdom,32.3078,-64.7505,Bermuda United Kingdom,"32.3078,-64.7505",185
+249,British Virgin Islands,United Kingdom,18.4207,-64.64,British Virgin Islands United Kingdom,"18.4207,-64.64",71
+250,Cayman Islands,United Kingdom,19.3133,-81.2546,Cayman Islands United Kingdom,"19.3133,-81.2546",233
+251,Channel Islands,United Kingdom,49.3723,-2.3644,Channel Islands United Kingdom,"49.3723,-2.3644",748
+252,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,Falkland Islands (Malvinas) United Kingdom,"-51.7963,-59.5236",13
+253,Gibraltar,United Kingdom,36.1408,-5.3536,Gibraltar United Kingdom,"36.1408,-5.3536",558
+254,Isle of Man,United Kingdom,54.2361,-4.5481,Isle of Man United Kingdom,"54.2361,-4.5481",348
+255,Montserrat,United Kingdom,16.742498,-62.187366,Montserrat United Kingdom,"16.742498,-62.187366",13
+256,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,Turks and Caicos Islands United Kingdom,"21.69400000000001,-71.7979",698
+257,,United Kingdom,55.3781,-3.436, United Kingdom,"55.3781,-3.436",705428
+258,,Uruguay,-32.5228,-55.7658, Uruguay,"-32.5228,-55.7658",2501
+259,,Uzbekistan,41.377491,64.585262, Uzbekistan,"41.377491,64.585262",62809
+260,,Venezuela,6.4238,-66.5897, Venezuela,"6.4238,-66.5897",86289
+261,,Vietnam,14.058324,108.277199, Vietnam,"14.058324,108.277199",1126
+262,,West Bank and Gaza,31.9522,35.2332, West Bank and Gaza,"31.9522,35.2332",46746
+263,,Western Sahara,24.2155,-12.8858, Western Sahara,"24.2155,-12.8858",10
+264,,Yemen,15.552727,48.516388, Yemen,"15.552727,48.516388",2055
+265,,Zambia,-13.133897,27.849332, Zambia,"-13.133897,27.849332",15789
+266,,Zimbabwe,-19.015438,29.154857, Zimbabwe,"-19.015438,29.154857",8110
