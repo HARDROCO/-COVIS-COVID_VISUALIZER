@@ -78,6 +78,7 @@ cols_2 = copy_df.columns.to_list()
 cols_2 = cols_2[0:4] + cols_2[-2:] + cols_2[4:-2]
 df_completo = copy_df[cols_2]
 
+
 # almacenar data de casos por fecha
 casos = df_completo.iloc[:, 6:]
 
